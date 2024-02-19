@@ -44,6 +44,24 @@
   margin-right: 20px;
 }
 
+
+.max_guest p{
+    background: url("../images/icon_group.png") no-repeat top center;
+    height: 250%;
+    padding-bottom: 2px;
+}
+
+.number_rooms p{
+    background: url("../images/icon_bed.png") no-repeat top center;
+    height: 250%;
+    padding-bottom: 2px;
+}
+
+.number_bathrooms p{
+    background: url("../images/icon_bath.png") no-repeat top center;
+    height: 250%;
+    padding-bottom: 2px;
+}
 .places article .user {
   margin-top: 20px;
   font-weight: bold;
